@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm Abhishek Chudasama! 👋  <br>🔭 I'm a passionate Full-Stack Developer with expertise in building web applications using the MERN stack.<br>👯 I’m looking to collaborate on Full Stack Development Projects <br>🌱 I’m currently  a Dot Net Developer <br>💬 Ask me about<br>⚡ Let's connect!  <br>- LinkedIn :-https://www.linkedin.com/in/abhishekchudasama <br>- Email: abhishekchudasama49@gmail.com<br><br>I enjoy contributing to open source projects and sharing my knowledge with the community.<br><br>When I'm not coding, you can find me exploring new hiking trails or reading about the latest tech trends.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicode44&label=Profile%20views&color=0e75b6&style=flat" alt="abhicode44" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishekchudasama) 
