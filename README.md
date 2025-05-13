@@ -3,11 +3,6 @@ Hi, I'm Abhishek Chudasama! 👋  <br>🔭 I'm a passionate Full-Stack Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicode44&label=Profile%20views&color=0e75b6&style=flat" alt="abhicode44" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishekchudasama) 
@@ -22,11 +17,6 @@ Hi, I'm Abhishek Chudasama! 👋  <br>🔭 I'm a passionate Full-Stack Developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhicode44&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhicode44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhicode44&icon=7&color=1)](https://visitcount.itsvg.in)
