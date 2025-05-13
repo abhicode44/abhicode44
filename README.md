@@ -3,6 +3,12 @@ Hi, I'm Abhishek Chudasama! 👋  <br>🔭 I'm a passionate Full-Stack Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicode44&label=Profile%20views&color=0e75b6&style=flat" alt="abhicode44" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishekchudasama) 
 
