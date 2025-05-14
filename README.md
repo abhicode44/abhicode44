@@ -1,4 +1,5 @@
-![logo]()
+![logo](https://github.com/abhicode44/abhicode44/blob/main/header.jpg)
+<br>
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 Hi, I'm Abhishek Chudasama! 👋  <br>🔭 I'm a passionate Full-Stack Developer with expertise in building web applications using the MERN stack.<br>👯 I’m looking to collaborate on Full Stack Development Projects <br>🌱 I’m currently  a Dot Net Developer. <br>I enjoy contributing to open source projects and sharing my knowledge with the community.<br><br>When I'm not coding, you can find me exploring new hiking trails or reading about the latest tech trends.
